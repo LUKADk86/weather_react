@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-color: aquamarine;
+  color: aliceblue;
+}
+.App{
+  background-color: blue;
+  width: 50%;
+  margin: auto;
+  min-height: 500px;
+}
+input{
+
+  margin-bottom: 10px;
+  border: 2px solid blue;
+}
+input:focus{
+  background-color: burlywood;
+}
+h1{
+  color: bisque;
+}
+button{
+  color: black;
+  background-color: aqua;
+}
